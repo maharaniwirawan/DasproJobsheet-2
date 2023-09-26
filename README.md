@@ -1,3 +1,3 @@
-# Dasar Pemrograman - Jobsh eet 2
+# Dasar Pemrograman - Jobsheet 2
 
 Hello Github, ini adalah repository saya
